@@ -1,4 +1,4 @@
-# mychat
+# Kite
 
 An Electron application with Vue
 
